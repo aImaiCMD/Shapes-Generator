@@ -2,7 +2,7 @@
   "name": "shapes-generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ChenCMD.github.io/shapes-generator",
+  "homepage": "https://aImaiCMD.github.io/shapes-generator",
   "dependencies": {
     "bootstrap": "^5.0.1",
     "fast-deep-equal": "^3.1.3",
